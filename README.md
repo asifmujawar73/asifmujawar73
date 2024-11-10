@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OpenCart](https://github.com/asifmujawar73/OpenCart_Automation)
 
-- 🌱 I’m currently learning **Docker,Jenkins,Maven,CI/CD concepts**
+- 🌱 I’m currently learning ** API Automation Testing,Docker,Jenkins,Maven,CI/CD concepts**
 
 - 👨‍💻 All of my projects are available at [https://asifmujawar73.github.io/PortFolio_SDET_Asif_Mujawar/](https://asifmujawar73.github.io/PortFolio_SDET_Asif_Mujawar/)
 
